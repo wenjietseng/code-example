@@ -12,3 +12,4 @@ Use scp cmd to send files
 find previous cmd
 
 `histroy | grep some_previous_cmd`
+scp -r user@your.server.example.com:/path/to/foo /home/user/Desktop/
